@@ -1,2 +1,6 @@
 # Virtual_Drawing_Computer-_Vision
 Virtual_drawing using computer vision
+
+
+To get the lower and upper limit of HSV for your own color, use my HSV_color-picker.py code from my github profile:
+git@github.com:syedhayi/HSV_color-picker-openCV-.git 
