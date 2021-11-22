@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 #Creating a window for the workspace
 cv2.namedWindow("Result", cv2.WINDOW_FREERATIO)
 
-#Setting up colour's lower and upper limit of HSV
+#Setting up colour's lower and upper limit of HSV of your own color
 myColours = [[26, 137, 255, 46, 224, 255],    #Orange
             # [135, 110, 145, 179, 255, 255 ],    #red
             # [30, 62, 255, 36, 232, 255 ], #yellow
@@ -16,7 +16,7 @@ myColours = [[26, 137, 255, 46, 224, 255],    #Orange
             # [ 110, 153, 157, 117, 213, 230],    #Blue
             [52, 80, 96, 90, 123, 180]]     #Green
 
-#Setting up BGR values of specified colour
+#Setting up BGR values of specified colour of your own color
 ColourVal = [[0, 225, 255],         #Orange
                 # [0,28,255],           #Red
                 # [0,185,255],          #Yellow
