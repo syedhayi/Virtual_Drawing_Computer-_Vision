@@ -3,6 +3,10 @@ Virtual_drawing using computer vision
 
 
 
+
+https://user-images.githubusercontent.com/35668660/142921190-e4e949c2-1e09-48c3-b224-6aacdfa63b2f.mp4
+
+
 **This video inspired me to make my own magic drawing pencil**
 
 To get the lower and upper limit of HSV for your own color, use my HSV_color-picker.py code from my github profile:
